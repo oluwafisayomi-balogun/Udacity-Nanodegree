@@ -15,7 +15,7 @@ Got my data from 3 different sources
 
 
 ## Files
-1. Wrangle act shows all my codes and visualizations
+1. Wrangle_act shows all my codes and visualizations
 2. Act report communicates all the insights and displays the visualization(s) produced from your wrangled data
 3. Wrangle report briefly describes your wrangling efforts
-4. Twitter-archive-master stores the cleaned master DataFrame in a CSV file 
+4. Twitter_archive_master stores the cleaned master DataFrame in a CSV file 
